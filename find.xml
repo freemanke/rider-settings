@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\FreemankeMinutes\ChatHub.cs'" />
-    <option name="defaultScopeName" value="File '...\FreemankeMinutes\ChatHub.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\FreemankeMinutes\ChatHub.cs'" />
+    <option name="customScope" value="Project 'Platform.TestCaseRemodel'" />
+    <option name="defaultScopeName" value="Project 'Platform.TestCaseRemodel'" />
+    <option name="SEARCH_SCOPE" value="Project 'Platform.TestCaseRemodel'" />
   </component>
 </application>
